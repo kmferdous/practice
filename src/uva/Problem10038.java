@@ -2,6 +2,10 @@ package uva;
 
 import java.util.Scanner;
 
+/**
+ * @see 10038 - Jolly Jumpers
+ */
+
 public class Problem10038 {
 
     public static void start() {
